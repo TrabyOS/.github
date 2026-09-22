@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/trabyos-mark.png" width="88" alt="TrabyOS" />
+  <img src="./assets/trabyos-mark.png" width="84" alt="TrabyOS" />
 </p>
 
 <h2 align="center">TrabyOS</h2>
@@ -10,20 +10,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TrabyOS/trabyos-test/releases/latest"><strong>⬇ Download the free test build »</strong></a>
+  <a href="https://github.com/TrabyOS/trabyos-test/releases/latest"><strong>⬇&nbsp; Download the free test build »</strong></a>
 </p>
 
 <p align="center">
   <a href="https://trabyos-website.vercel.app/">Website</a> ·
-  <a href="https://github.com/TrabyOS/trabyos-test">Setup guide</a> ·
-  <a href="https://github.com/TrabyOS/trabyos-test/releases/latest">Releases</a>
+  <a href="https://github.com/TrabyOS/trabyos-test">Setup guide</a>
 </p>
 
 ---
 
-Hold push-to-talk, speak, release. What you asked for comes back as a card anchored at the top of the
-screen — the TrabyOS island. **Nothing has been sent to an exchange yet.** The card waits, and becomes an
-order only when you approve it out loud.
+Hold push-to-talk, speak, release. What you asked for returns as a card anchored at the top of the screen
+— the TrabyOS island. Nothing has reached an exchange yet. The card waits.
 
 | You say | You get |
 | --- | --- |
@@ -35,24 +33,29 @@ order only when you approve it out loud.
 | "Close my Bitcoin long." → "Approve." | Closed, with realized P&L |
 | "Any news on Bitcoin?" | A headlines card |
 
-A card also takes ordinary phrasing — "Yes, go ahead and place it.", "Confirm.", "No, cancel that." You
-are answering a question, not reciting a command. **And silence is not consent:** an unanswered card
-expires instead of executing.
+"Yes, go ahead and place it.", "Confirm.", "No, cancel that." — you are answering a question, not reciting
+a command.
 
-Speech is ambiguous and a trade is not reversible, so which market a spoken phrase refers to is resolved
-deterministically against a live public catalog rather than guessed. Notional minimums, leverage limits
-and balance are checked before anything leaves, each confirmation is single-use, and the transcript is
-kept so that what was said and what was approved stay auditable.
+### Silence is not consent
 
-### The test build
+An unanswered card expires rather than executing. Every confirmation is single-use, so approving one card
+never carries into the next. And a waiting card can still be corrected: say the revised amount and it
+updates and re-arms, instead of filling something you no longer meant.
 
-Live Binance prices against a simulated exchange. No exchange account is connected and no real order can
-be placed, so you can practice an order, a leveraged position and a close without risking anything — every
-launch starts a fresh test account.
+### The model never picks the market
 
-Apple Silicon Mac (M1 or later) · macOS 13+ · about 3 GB free · hold `Fn`+`Control` and speak English.
-Needs microphone access, and Accessibility for global push-to-talk.
+Speech is ambiguous and a trade is not reversible, so which instrument a spoken phrase refers to is
+resolved deterministically against a live public catalog. Notional minimums, leverage limits and available
+balance are checked before anything leaves. The transcript is kept, so what was said and what was approved
+stay auditable.
+
+### Practice with nothing at stake
+
+Live Binance prices, simulated fills, no exchange account attached. Every launch starts a fresh test
+account, so you can run an order, a leveraged position and a close without risking anything.
+
+`Apple Silicon Mac` `macOS 13+` `~3 GB` `Fn + Control to speak`
 
 <p align="center">
-  <a href="https://github.com/TrabyOS/trabyos-test"><strong>Talk to your Mac about Bitcoin →</strong></a>
+  <a href="https://github.com/TrabyOS/trabyos-test/releases/latest"><strong>Talk to your Mac about Bitcoin →</strong></a>
 </p>
