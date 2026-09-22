@@ -1,26 +1,29 @@
 <p align="center">
-  <img src="./assets/trabyos-cover.svg" width="100%" alt="TrabyOS — voice-first AI trading on macOS, with explicit approval before every order" />
+  <img src="./assets/trabyos-mark.png" width="88" alt="TrabyOS" />
+</p>
+
+<h2 align="center">TrabyOS</h2>
+
+<p align="center">
+  Voice-first AI trading for macOS.<br />
+  Say it, see the card, approve it out loud.
 </p>
 
 <p align="center">
-  <a href="https://trabyos-website.vercel.app/"><strong>Website</strong></a> ·
-  <a href="https://github.com/TrabyOS/trabyos-test"><strong>Try the test build</strong></a> ·
-  <a href="https://github.com/TrabyOS/trabyos-test/releases/latest"><strong>Download</strong></a>
+  <a href="https://github.com/TrabyOS/trabyos-test/releases/latest"><strong>⬇ Download the free test build »</strong></a>
 </p>
 
-## Trading you can do by talking, and stop by not answering
+<p align="center">
+  <a href="https://trabyos-website.vercel.app/">Website</a> ·
+  <a href="https://github.com/TrabyOS/trabyos-test">Setup guide</a> ·
+  <a href="https://github.com/TrabyOS/trabyos-test/releases/latest">Releases</a>
+</p>
 
-TrabyOS is a **macOS-native, voice-first AI trading workspace**. Hold push-to-talk, say what you want in
-plain language, and release. The request is transcribed, interpreted, resolved against live public market
-data, and shown as a card anchored at the top of your screen — the TrabyOS island.
+---
 
-Nothing is sent to an exchange at that point. The card waits. It becomes an order only when you approve it
-out loud, or cancel it the same way. **Silence is not consent:** an unanswered card does not execute.
-
-> A free test build is available for Apple Silicon Macs. It uses live Binance prices against a simulated
-> exchange — no exchange account is connected and no real order can be placed.
-
-## What a session looks like
+Hold push-to-talk, speak, release. What you asked for comes back as a card anchored at the top of the
+screen — the TrabyOS island. **Nothing has been sent to an exchange yet.** The card waits, and becomes an
+order only when you approve it out loud.
 
 | You say | You get |
 | --- | --- |
@@ -32,59 +35,24 @@ out loud, or cancel it the same way. **Silence is not consent:** an unanswered c
 | "Close my Bitcoin long." → "Approve." | Closed, with realized P&L |
 | "Any news on Bitcoin?" | A headlines card |
 
-An order card also accepts ordinary phrasing — "Yes, go ahead and place it.", "Confirm.", "No, cancel
-that." You are answering a question, not reciting a command.
+A card also takes ordinary phrasing — "Yes, go ahead and place it.", "Confirm.", "No, cancel that." You
+are answering a question, not reciting a command. **And silence is not consent:** an unanswered card
+expires instead of executing.
 
-## Why a voice interface needs stricter rules, not looser ones
+Speech is ambiguous and a trade is not reversible, so which market a spoken phrase refers to is resolved
+deterministically against a live public catalog rather than guessed. Notional minimums, leverage limits
+and balance are checked before anything leaves, each confirmation is single-use, and the transcript is
+kept so that what was said and what was approved stay auditable.
 
-Speech is ambiguous and a trading action is not reversible, so the product is built around a few
-non-negotiable boundaries:
+### The test build
 
-- **Instruments resolve deterministically.** Which market a spoken phrase refers to is decided against a
-  live public catalog, not guessed by a language model.
-- **Every mutation needs a deliberate, non-reusable confirmation.** Approving one card never carries over
-  to the next.
-- **A waiting card can be corrected before it is approved** — say the revised amount and the card updates
-  and re-arms, rather than executing something you no longer meant.
-- **Checks run before an order leaves.** Notional minimums, leverage limits, and available balance are
-  verified deterministically.
-- **The transcript is kept as evidence.** What was said, and what was approved, stays auditable.
-- **Real-money execution is fail-closed** and disabled in the distributed test build.
+Live Binance prices against a simulated exchange. No exchange account is connected and no real order can
+be placed, so you can practice an order, a leveraged position and a close without risking anything — every
+launch starts a fresh test account.
 
-## The test build
-
-Voice trading on your Mac in test mode. Every launch starts a fresh test account, so you can practice an
-order, a leveraged position, and a close without risking anything.
-
-| | |
-| --- | --- |
-| Platform | Apple Silicon Mac (M1 or later), macOS 13 or later |
-| Space | About 3 GB free |
-| Push-to-talk | Hold `Fn` + `Control`, speak in English, release |
-| Permissions | Microphone, and Accessibility for global push-to-talk |
-| Money at risk | None — simulated exchange, no exchange account connected |
-
-Speech is transcribed by OpenAI. If the bundled key stops working the app asks for your own OpenAI API
-key and keeps it on your Mac.
-
-**[Download TrabyOS Test →](https://github.com/TrabyOS/trabyos-test/releases/latest)**
-
-## Stack
-
-| Area | Technology |
-| --- | --- |
-| Client | Swift, SwiftUI / AppKit native macOS island |
-| Core | Spring Boot, Java |
-| Coordinator | Python |
-| Market data | Exchange public market APIs |
-| Storage | PostgreSQL |
-
-## Repositories
-
-- **[`trabyos-test`](https://github.com/TrabyOS/trabyos-test)** — the public test build, its release
-  notes, and setup instructions in English and Korean.
-- `trabyos` — the product repository. Private.
+Apple Silicon Mac (M1 or later) · macOS 13+ · about 3 GB free · hold `Fn`+`Control` and speak English.
+Needs microphone access, and Accessibility for global push-to-talk.
 
 <p align="center">
-  <a href="https://github.com/TrabyOS/trabyos-test"><strong>Talk to a Mac about Bitcoin →</strong></a>
+  <a href="https://github.com/TrabyOS/trabyos-test"><strong>Talk to your Mac about Bitcoin →</strong></a>
 </p>
