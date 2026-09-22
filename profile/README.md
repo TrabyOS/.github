@@ -15,7 +15,8 @@
 
 <p align="center">
   <a href="https://trabyos-website.vercel.app/">Website</a> ·
-  <a href="https://github.com/TrabyOS/trabyos-test">Setup guide</a>
+  <a href="https://github.com/TrabyOS/trabyos-test">Setup guide</a> ·
+  <a href="https://github.com/TrabyOS/trabyos-test#trabyos-test-한국어">한국어 안내</a>
 </p>
 
 ---
