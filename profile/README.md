@@ -11,6 +11,10 @@
 
 <p align="center">
   <a href="https://trabyos.ssumcp.duckdns.org/"><strong>Open web app ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://trabyos-website.vercel.app/#download">Download for Mac ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  Use TrabyOS wherever your exchange offers it.
 </p>
 
 <br />
@@ -123,8 +127,12 @@ our product repositories and implementation remain private.
 <p align="center">
   <strong>Less clicking. More trading.</strong><br />
   <a href="https://trabyos.ssumcp.duckdns.org/">Open web app ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://trabyos-website.vercel.app/#download">Download for Mac ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  Use TrabyOS wherever your exchange offers it.
 </p>
 
 <p align="center">
-  <sub>In active development · Web sign-in is available. A public Mac download is not yet available.</sub>
+  <sub>In active development · Visit our product website for Mac availability.</sub>
 </p>
