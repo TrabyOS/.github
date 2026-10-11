@@ -20,7 +20,7 @@
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TrabyOS/.github/main/profile/assets/market-workspace.png" width="100%" alt="Illustrative TrabyOS buy-order review in English, with a Bitcoin chart, order book, and two sample positions." />
+  <img src="https://raw.githubusercontent.com/TrabyOS/.github/main/profile/assets/buy-order-demo.png" width="100%" alt="Illustrative TrabyOS buy-order review in English, with a Bitcoin chart, order book, and two sample positions." />
   <br />
   <sub>Illustrative product demo · English buy-order review with sample positions.<br />Edited from the app interface; orders, positions, and P&amp;L are example data.</sub>
 </p>
