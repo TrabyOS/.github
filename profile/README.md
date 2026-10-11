@@ -11,8 +11,6 @@
 
 <p align="center">
   <a href="https://trabyos.ssumcp.duckdns.org/"><strong>Open web app ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://trabyos-website.vercel.app/">Product website ↗</a>
 </p>
 
 <br />
@@ -116,8 +114,6 @@ our product repositories and implementation remain private.
 <p align="center">
   <strong>Less clicking. More trading.</strong><br />
   <a href="https://trabyos.ssumcp.duckdns.org/">Open web app ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://trabyos-website.vercel.app/">Product website ↗</a>
 </p>
 
 <p align="center">
