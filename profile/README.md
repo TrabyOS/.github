@@ -6,7 +6,7 @@
 
 <p align="center">
   Market insights, charts, and real trades. One conversation.<br />
-  <strong>TrabyOS is your voice-first trading platform for web and Mac.</strong>
+  <strong>Voice-powered trading for individuals. Voice technology for exchange platforms.</strong>
 </p>
 
 <p align="center">
@@ -28,6 +28,23 @@ check your positions, or prepare your next trade — in your own words.
 Review the details on screen. Change your mind mid-flow. Give the final go-ahead.
 
 **Your voice starts the trade. Your approval makes the call.**
+
+<br />
+
+## For traders. For trading platforms.
+
+**For individuals — a voice-first trading assistant.** Use TrabyOS on the web or Mac to explore
+markets, manage trading workflows, and review orders in natural language.
+
+**For exchanges and partners — our voice module, inside your platform.** We work directly with
+exchange platforms and partner companies to provide our voice technology within their own
+trading experiences. The integration work brings market questions, order preparation, and explicit
+user approval into the platform traders already use.
+
+We are collaborating with multiple exchanges and partners on module delivery, development, and
+ongoing operation, alongside our own web and Mac experiences.
+
+**A trading assistant you can use. Voice technology your platform can offer.**
 
 <br />
 
@@ -59,14 +76,6 @@ Review the details on screen. Change your mind mid-flow. Give the final go-ahead
 </td>
 </tr>
 </table>
-
-<br />
-
-## What we're working on today
-
-Our current work spans web and Mac experiences, alongside voice-module integrations for other
-platforms. We are collaborating with multiple exchanges and partner companies, developing and
-operating our voice module to bring conversational trading to their platforms.
 
 <br />
 
