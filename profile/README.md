@@ -20,9 +20,9 @@
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TrabyOS/.github/main/profile/assets/market-workspace.png" width="100%" alt="TrabyOS native Mac market view showing Bitcoin candlesticks, the live order book, and market tabs." />
+  <img src="https://raw.githubusercontent.com/TrabyOS/.github/main/profile/assets/market-workspace.png" width="100%" alt="Illustrative TrabyOS buy-order review in English, with a Bitcoin chart, order book, and two sample positions." />
   <br />
-  <sub>Captured in the native Mac app with live public market data.<br />Market-view preview; the displayed prompt is supplied for the capture.</sub>
+  <sub>Illustrative product demo · English buy-order review with sample positions.<br />Edited from the app interface; orders, positions, and P&amp;L are example data.</sub>
 </p>
 
 ## Trading, at the speed of conversation.
