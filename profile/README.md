@@ -14,7 +14,7 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#a-closer-look">The experience</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#beyond-one-app-voice-for-every-exchange">Our vision</a>
+  <a href="#our-vision-any-market-anywhere-just-your-voice">Our vision</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#made-for-your-mac">Built for Mac</a>
 </p>
@@ -68,18 +68,26 @@ Review the details on screen. Change your mind mid-flow. Give the final go-ahead
 
 <br />
 
-## Beyond one app. Voice for every exchange.
+## What we're working on today
 
-**We built TrabyOS to make trading a conversation. Our vision goes beyond the Mac.**
+Our current work spans web and Mac experiences, alongside voice-module integrations for other
+platforms. We are collaborating with multiple exchanges and partner companies, developing and
+operating our voice module to bring conversational trading to their platforms.
 
-We are collaborating with multiple exchanges and partner companies, developing and operating
-our voice module to bring it to their platforms. TrabyOS for Mac brings that experience directly
-to traders; our work with partners extends the vision to the platforms they already use.
+<br />
 
-Our ambition is to make voice a native part of trading — from understanding the market to
-preparing an order and giving the final approval.
+## Our vision: Any market. Anywhere. Just your voice.
 
-**Different platforms. One natural way to trade.**
+**An AI assistant that makes trading crypto and stocks as natural as speaking — wherever you are.**
+
+We envision one assistant across the systems and devices you use: from web and Mac to Windows,
+Android, and iOS, and onward to earbuds, smartwatches, and smart glasses. Ask about the market,
+review a trade, and give your approval by voice, without having to reach for a trading screen.
+
+Web, Mac, and partner-platform integrations are our focus today. Broader device support and stock
+trading are part of our long-term vision.
+
+**Your markets. Your assistant. With you, wherever life takes you.**
 
 <br />
 
