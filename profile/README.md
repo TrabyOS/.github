@@ -6,17 +6,13 @@
 
 <p align="center">
   Market insights, charts, and real trades. One conversation.<br />
-  <strong>TrabyOS is your voice-first trading platform for Mac.</strong>
+  <strong>TrabyOS is your voice-first trading platform for web and Mac.</strong>
 </p>
 
 <p align="center">
-  <a href="https://trabyos-website.vercel.app/"><strong>Explore TrabyOS ↗</strong></a>
+  <a href="https://trabyos.ssumcp.duckdns.org/"><strong>Open web app ↗</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#a-closer-look">The experience</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#our-vision-any-market-anywhere-just-your-voice">Our vision</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#made-for-your-mac">Built for Mac</a>
+  <a href="https://trabyos-website.vercel.app/">Product website ↗</a>
 </p>
 
 <br />
@@ -91,9 +87,11 @@ trading are part of our long-term vision.
 
 <br />
 
-## Made for your Mac
+## On the web. Built for your Mac.
 
-A native workspace at the top of your screen. Speak when it's natural; type when you need quiet.
+[Open TrabyOS in your browser](https://trabyos.ssumcp.duckdns.org/) and sign in with Google.
+
+On Mac, a native workspace stays at the top of your screen. Speak when it's natural; type when you need quiet.
 English and Korean input. The same review-and-approve experience in paper and live trading.
 
 TrabyOS connects to your exchange. You stay in control of what gets placed.
@@ -117,9 +115,11 @@ our product repositories and implementation remain private.
 
 <p align="center">
   <strong>Less clicking. More trading.</strong><br />
-  <a href="https://trabyos-website.vercel.app/">Discover TrabyOS ↗</a>
+  <a href="https://trabyos.ssumcp.duckdns.org/">Open web app ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://trabyos-website.vercel.app/">Product website ↗</a>
 </p>
 
 <p align="center">
-  <sub>In active development · Public downloads are not currently available.</sub>
+  <sub>In active development · Web sign-in is available. A public Mac download is not yet available.</sub>
 </p>
