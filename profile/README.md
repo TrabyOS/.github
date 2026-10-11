@@ -14,6 +14,8 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#a-closer-look">The experience</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#beyond-one-app-voice-for-every-exchange">Our vision</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#made-for-your-mac">Built for Mac</a>
 </p>
 
@@ -63,6 +65,21 @@ Review the details on screen. Change your mind mid-flow. Give the final go-ahead
 </td>
 </tr>
 </table>
+
+<br />
+
+## Beyond one app. Voice for every exchange.
+
+**We built TrabyOS to make trading a conversation. Our vision goes beyond the Mac.**
+
+We are collaborating with multiple exchanges and partner companies, developing and operating
+our voice module to bring it to their platforms. TrabyOS for Mac brings that experience directly
+to traders; our work with partners extends the vision to the platforms they already use.
+
+Our ambition is to make voice a native part of trading — from understanding the market to
+preparing an order and giving the final approval.
+
+**Different platforms. One natural way to trade.**
 
 <br />
 
