@@ -2,7 +2,9 @@
 
 **The trading floor. Now in your voice.**
 
-TrabyOS is a proprietary, voice-first trading platform for web and Mac.
+TrabyOS builds voice-first trading experiences for individuals and provides voice modules for
+exchange platforms and partners. Our work spans web and Mac products, platform integration,
+and ongoing module development and operation.
 
 [Open web app](https://trabyos.ssumcp.duckdns.org/) · [Product overview](https://github.com/TrabyOS)
 
