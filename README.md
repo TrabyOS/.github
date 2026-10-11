@@ -1,10 +1,9 @@
-# TrabyOS — public organization profile
+# TrabyOS
 
-This repository holds the **public** profile shown on [github.com/TrabyOS](https://github.com/TrabyOS).
+The public profile for [TrabyOS](https://github.com/TrabyOS), a voice-first AI trading platform for the Mac.
 
-- `profile/README.md`: the organization Overview
-- `profile/assets/`: images used by the Overview
+- [Product overview](profile/README.md)
+- [Website](https://trabyos-website.vercel.app/)
 
-The Overview describes TrabyOS at the level the public test build already documents, and links only to
-pages that are reachable without signing in. The product repository is private; no internal
-architecture, configuration, or operational detail belongs in this repository.
+This repository contains public brand assets and product information only.
+Product source code, internal documentation, and implementation details are maintained in private repositories.
