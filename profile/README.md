@@ -122,6 +122,13 @@ our product repositories and implementation remain private.
 
 <br />
 
+## Contact
+
+Questions, feedback, and partnership or exchange-integration inquiries:
+[open an issue on GitHub ↗](https://github.com/TrabyOS/.github/issues/new)
+
+<br />
+
 ---
 
 <p align="center">
