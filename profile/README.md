@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://trabyos.ssumcp.duckdns.org/"><strong>Open web app ↗</strong></a>
+  <a href="https://www.trabyos.com/"><strong>Open web app ↗</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://trabyos-website.vercel.app/#download">Download for Mac ↗</a>
+  <a href="https://www.trabyos.com/#download">Download for Mac ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   Use TrabyOS wherever your exchange offers it.
 </p>
@@ -100,7 +100,7 @@ trading are part of our long-term vision.
 
 ## On the web. Built for your Mac.
 
-[Open TrabyOS in your browser](https://trabyos.ssumcp.duckdns.org/) and sign in with Google.
+[Open TrabyOS in your browser](https://www.trabyos.com/) and sign in with Google.
 
 On Mac, a native workspace stays at the top of your screen. Speak when it's natural; type when you need quiet.
 English and Korean input. The same review-and-approve experience in paper and live trading.
@@ -133,9 +133,9 @@ Questions, feedback, and partnership or exchange-integration inquiries:
 
 <p align="center">
   <strong>Less clicking. More trading.</strong><br />
-  <a href="https://trabyos.ssumcp.duckdns.org/">Open web app ↗</a>
+  <a href="https://www.trabyos.com/">Open web app ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://trabyos-website.vercel.app/#download">Download for Mac ↗</a>
+  <a href="https://www.trabyos.com/#download">Download for Mac ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   Use TrabyOS wherever your exchange offers it.
 </p>
