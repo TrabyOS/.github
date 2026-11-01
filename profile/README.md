@@ -10,11 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.trabyos.com/"><strong>Open web app ↗</strong></a>
+  <a href="https://www.youtube.com/watch?v=LlnAPq3E_Vo"><strong>Watch product demo ↗</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.trabyos.com/#download">Download for Mac ↗</a>
+  <a href="https://github.com/TrabyOS/TrabyOS-YC">Product overview ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  Use TrabyOS wherever your exchange offers it.
+  <a href="https://trabyos-site.vercel.app/">Product website ↗</a>
+</p>
+
+<p align="center">
+  <sub>Working macOS prototype · Pre-revenue · Product source and credentials remain private.</sub>
 </p>
 
 <br />
@@ -133,11 +137,11 @@ Questions, feedback, and partnership or exchange-integration inquiries:
 
 <p align="center">
   <strong>Less clicking. More trading.</strong><br />
-  <a href="https://www.trabyos.com/">Open web app ↗</a>
+  <a href="https://www.youtube.com/watch?v=LlnAPq3E_Vo">Watch product demo ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.trabyos.com/#download">Download for Mac ↗</a>
+  <a href="https://github.com/TrabyOS/TrabyOS-YC">Product overview ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  Use TrabyOS wherever your exchange offers it.
+  <a href="https://trabyos-site.vercel.app/">Product website ↗</a>
 </p>
 
 <p align="center">
